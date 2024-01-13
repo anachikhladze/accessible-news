@@ -43,6 +43,7 @@
 		A145FE9E2B3C650D00FFC4E1 = {
 			isa = PBXGroup;
 			children = (
+				A1E295A42B5319B50009D1C6 /* README.md */,
 				A145FEA92B3C650D00FFC4E1 /* AccessibleNews */,
 				A145FEA82B3C650D00FFC4E1 /* Products */,
 			);
@@ -72,7 +73,6 @@
 		A145FEB02B3C650F00FFC4E1 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A1E295A42B5319B50009D1C6 /* README.md */,
 				A145FEB12B3C650F00FFC4E1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
